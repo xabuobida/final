@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "942837536951",
+    "project_id": "fruitmarkit-892bb",
+    "storage_bucket": "fruitmarkit-892bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942837536951:android:caf52894a11a0603ee5532",
+        "android_client_info": {
+          "package_name": "com.htu.fruitmarkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942837536951-bo1tusq12kr6hn6maed81h3j8bq7upa0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcsaIUWtFY7pTcHlBIZAFbBQzph72sJdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942837536951-bo1tusq12kr6hn6maed81h3j8bq7upa0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
